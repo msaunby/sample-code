@@ -1,0 +1,11 @@
+wheel
+certifi
+chardet
+idna
+PyAudio
+requests
+requests-mock
+ruamel.yaml
+ruamel.yaml.clib
+urllib3
+xmltodict

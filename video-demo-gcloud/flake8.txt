@@ -1,0 +1,1686 @@
+./test_ttsgoogle.py:1:1: F401 'pytest' imported but unused
+./test_ttsgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_ttsgoogle.py:11:20: E231 missing whitespace after ','
+./test_ttsgoogle.py:11:30: E231 missing whitespace after ','
+./record.py:9:1: E302 expected 2 blank lines, found 1
+./record.py:13:17: E128 continuation line under-indented for visual indent
+./record.py:14:17: E128 continuation line under-indented for visual indent
+./record.py:15:17: E128 continuation line under-indented for visual indent
+./record.py:16:17: E128 continuation line under-indented for visual indent
+./sttgoogle.py:10:2: W291 trailing whitespace
+./sttgoogle.py:23:17: E231 missing whitespace after ':'
+./sttgoogle.py:29:16: E231 missing whitespace after ':'
+./sttgoogle.py:33:1: E302 expected 2 blank lines, found 1
+./sttgoogle.py:33:17: E231 missing whitespace after ':'
+./sttgoogle.py:33:32: E231 missing whitespace after ':'
+./sttgoogle.py:38:47: E231 missing whitespace after ','
+./sttgoogle.py:38:62: E231 missing whitespace after ':'
+./sttgoogle.py:49:67: W292 no newline at end of file
+./main.py:27:16: W291 trailing whitespace
+./main.py:32:6: E111 indentation is not a multiple of 4
+./main.py:32:6: E117 over-indented
+./main.py:33:6: E111 indentation is not a multiple of 4
+./main.py:34:6: E111 indentation is not a multiple of 4
+./main.py:35:11: E111 indentation is not a multiple of 4
+./main.py:35:11: E117 over-indented
+./main.py:36:6: E111 indentation is not a multiple of 4
+./main.py:39:6: E111 indentation is not a multiple of 4
+./main.py:39:6: E117 over-indented
+./main.py:40:6: E111 indentation is not a multiple of 4
+./main.py:41:6: E111 indentation is not a multiple of 4
+./main.py:42:11: E111 indentation is not a multiple of 4
+./main.py:42:11: E117 over-indented
+./main.py:43:11: E111 indentation is not a multiple of 4
+./main.py:44:6: E111 indentation is not a multiple of 4
+./main.py:54:1: W391 blank line at end of file
+./test_record.py:3:1: E302 expected 2 blank lines, found 1
+./test_record.py:5:29: E231 missing whitespace after ','
+./test_record.py:6:19: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./querywolfram.py:8:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:24:1: E303 too many blank lines (3)
+./querywolfram.py:25:1: E302 expected 2 blank lines, found 3
+./querywolfram.py:38:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:38:26: E231 missing whitespace after ':'
+./querywolfram.py:44:1: W293 blank line contains whitespace
+./querywolfram.py:45:5: E303 too many blank lines (2)
+./querywolfram.py:55:9: E265 block comment should start with '# '
+./querywolfram.py:58:1: E305 expected 2 blank lines after class or function definition, found 1
+./querywolfram.py:67:1: W293 blank line contains whitespace
+./ttsgoogle.py:4:2: W291 trailing whitespace
+./ttsgoogle.py:5:1: F401 'typing.BinaryIO' imported but unused
+./ttsgoogle.py:13:1: E303 too many blank lines (3)
+./ttsgoogle.py:14:10: E231 missing whitespace after ':'
+./ttsgoogle.py:15:11: E231 missing whitespace after ':'
+./ttsgoogle.py:17:10: E231 missing whitespace after ':'
+./ttsgoogle.py:18:19: E231 missing whitespace after ':'
+./ttsgoogle.py:19:11: E231 missing whitespace after ':'
+./ttsgoogle.py:21:16: E231 missing whitespace after ':'
+./ttsgoogle.py:22:20: E231 missing whitespace after ':'
+./ttsgoogle.py:26:1: E302 expected 2 blank lines, found 1
+./ttsgoogle.py:26:16: E231 missing whitespace after ':'
+./ttsgoogle.py:26:34: E231 missing whitespace after ':'
+./ttsgoogle.py:26:44: E231 missing whitespace after ':'
+./ttsgoogle.py:26:58: E231 missing whitespace after ':'
+./ttsgoogle.py:26:62: E252 missing whitespace around parameter equals
+./ttsgoogle.py:26:63: E252 missing whitespace around parameter equals
+./ttsgoogle.py:27:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:28:66: W291 trailing whitespace
+./ttsgoogle.py:31:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:45: E231 missing whitespace after ','
+./ttsgoogle.py:31:60: E231 missing whitespace after ':'
+./ttsgoogle.py:32:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:33:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:34:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:37:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:39:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:41:7: E111 indentation is not a multiple of 4
+./ttsgoogle.py:43:3: E111 indentation is not a multiple of 4
+./play.py:7:1: E302 expected 2 blank lines, found 1
+./play.py:7:18: E231 missing whitespace after ':'
+./play.py:9:75: W291 trailing whitespace
+./play.py:13:23: E721 do not compare types, use 'isinstance()'
+./play.py:19:17: E128 continuation line under-indented for visual indent
+./play.py:20:17: E128 continuation line under-indented for visual indent
+./play.py:21:17: E128 continuation line under-indented for visual indent
+./test_play.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:1:1: F401 'pytest' imported but unused
+./test_sttgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:10:28: E231 missing whitespace after ','
+./test_sttgoogle.py:11:36: W292 no newline at end of file
+./test_querywolfram.py:1:1: F401 'pytest' imported but unused
+./test_querywolfram.py:2:1: F401 'querywolfram.answer_query' imported but unused
+./test_querywolfram.py:4:1: E302 expected 2 blank lines, found 1
+20    E111 indentation is not a multiple of 4
+4     E117 over-indented
+7     E128 continuation line under-indented for visual indent
+25    E231 missing whitespace after ':'
+2     E252 missing whitespace around parameter equals
+1     E265 block comment should start with '# '
+12    E302 expected 2 blank lines, found 1
+3     E303 too many blank lines (3)
+1     E305 expected 2 blank lines after class or function definition, found 1
+1     E712 comparison to True should be 'if cond is True:' or 'if cond:'
+1     E721 do not compare types, use 'isinstance()'
+5     F401 'pytest' imported but unused
+5     W291 trailing whitespace
+2     W292 no newline at end of file
+2     W293 blank line contains whitespace
+1     W391 blank line at end of file
+./test_ttsgoogle.py:1:1: F401 'pytest' imported but unused
+./test_ttsgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_ttsgoogle.py:11:20: E231 missing whitespace after ','
+./test_ttsgoogle.py:11:30: E231 missing whitespace after ','
+./record.py:13:34: E231 missing whitespace after ','
+./record.py:13:52: E231 missing whitespace after ','
+./record.py:13:62: E231 missing whitespace after ','
+./record.py:13:73: E231 missing whitespace after ','
+./sttgoogle.py:10:2: W291 trailing whitespace
+./sttgoogle.py:23:17: E231 missing whitespace after ':'
+./sttgoogle.py:29:16: E231 missing whitespace after ':'
+./sttgoogle.py:33:1: E302 expected 2 blank lines, found 1
+./sttgoogle.py:33:17: E231 missing whitespace after ':'
+./sttgoogle.py:33:32: E231 missing whitespace after ':'
+./sttgoogle.py:38:47: E231 missing whitespace after ','
+./sttgoogle.py:38:62: E231 missing whitespace after ':'
+./sttgoogle.py:49:67: W292 no newline at end of file
+./main.py:27:16: W291 trailing whitespace
+./main.py:32:6: E111 indentation is not a multiple of 4
+./main.py:32:6: E117 over-indented
+./main.py:33:6: E111 indentation is not a multiple of 4
+./main.py:34:6: E111 indentation is not a multiple of 4
+./main.py:35:11: E111 indentation is not a multiple of 4
+./main.py:35:11: E117 over-indented
+./main.py:36:6: E111 indentation is not a multiple of 4
+./main.py:39:6: E111 indentation is not a multiple of 4
+./main.py:39:6: E117 over-indented
+./main.py:40:6: E111 indentation is not a multiple of 4
+./main.py:41:6: E111 indentation is not a multiple of 4
+./main.py:42:11: E111 indentation is not a multiple of 4
+./main.py:42:11: E117 over-indented
+./main.py:43:11: E111 indentation is not a multiple of 4
+./main.py:44:6: E111 indentation is not a multiple of 4
+./main.py:54:1: W391 blank line at end of file
+./test_record.py:3:1: E302 expected 2 blank lines, found 1
+./test_record.py:5:29: E231 missing whitespace after ','
+./test_record.py:6:19: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./querywolfram.py:8:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:24:1: E303 too many blank lines (3)
+./querywolfram.py:25:1: E302 expected 2 blank lines, found 3
+./querywolfram.py:38:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:38:26: E231 missing whitespace after ':'
+./querywolfram.py:44:1: W293 blank line contains whitespace
+./querywolfram.py:45:5: E303 too many blank lines (2)
+./querywolfram.py:55:9: E265 block comment should start with '# '
+./querywolfram.py:58:1: E305 expected 2 blank lines after class or function definition, found 1
+./querywolfram.py:67:1: W293 blank line contains whitespace
+./ttsgoogle.py:4:2: W291 trailing whitespace
+./ttsgoogle.py:5:1: F401 'typing.BinaryIO' imported but unused
+./ttsgoogle.py:13:1: E303 too many blank lines (3)
+./ttsgoogle.py:14:10: E231 missing whitespace after ':'
+./ttsgoogle.py:15:11: E231 missing whitespace after ':'
+./ttsgoogle.py:17:10: E231 missing whitespace after ':'
+./ttsgoogle.py:18:19: E231 missing whitespace after ':'
+./ttsgoogle.py:19:11: E231 missing whitespace after ':'
+./ttsgoogle.py:21:16: E231 missing whitespace after ':'
+./ttsgoogle.py:22:20: E231 missing whitespace after ':'
+./ttsgoogle.py:26:1: E302 expected 2 blank lines, found 1
+./ttsgoogle.py:26:16: E231 missing whitespace after ':'
+./ttsgoogle.py:26:34: E231 missing whitespace after ':'
+./ttsgoogle.py:26:44: E231 missing whitespace after ':'
+./ttsgoogle.py:26:58: E231 missing whitespace after ':'
+./ttsgoogle.py:26:62: E252 missing whitespace around parameter equals
+./ttsgoogle.py:26:63: E252 missing whitespace around parameter equals
+./ttsgoogle.py:27:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:28:66: W291 trailing whitespace
+./ttsgoogle.py:31:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:45: E231 missing whitespace after ','
+./ttsgoogle.py:31:60: E231 missing whitespace after ':'
+./ttsgoogle.py:32:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:33:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:34:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:37:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:39:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:41:7: E111 indentation is not a multiple of 4
+./ttsgoogle.py:43:3: E111 indentation is not a multiple of 4
+./play.py:7:1: E302 expected 2 blank lines, found 1
+./play.py:7:18: E231 missing whitespace after ':'
+./play.py:9:75: W291 trailing whitespace
+./play.py:13:23: E721 do not compare types, use 'isinstance()'
+./play.py:19:17: E128 continuation line under-indented for visual indent
+./play.py:20:17: E128 continuation line under-indented for visual indent
+./play.py:21:17: E128 continuation line under-indented for visual indent
+./test_play.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:1:1: F401 'pytest' imported but unused
+./test_sttgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:10:28: E231 missing whitespace after ','
+./test_sttgoogle.py:11:36: W292 no newline at end of file
+./test_querywolfram.py:1:1: F401 'pytest' imported but unused
+./test_querywolfram.py:2:1: F401 'querywolfram.answer_query' imported but unused
+./test_querywolfram.py:4:1: E302 expected 2 blank lines, found 1
+20    E111 indentation is not a multiple of 4
+4     E117 over-indented
+3     E128 continuation line under-indented for visual indent
+29    E231 missing whitespace after ':'
+2     E252 missing whitespace around parameter equals
+1     E265 block comment should start with '# '
+11    E302 expected 2 blank lines, found 1
+3     E303 too many blank lines (3)
+1     E305 expected 2 blank lines after class or function definition, found 1
+1     E712 comparison to True should be 'if cond is True:' or 'if cond:'
+1     E721 do not compare types, use 'isinstance()'
+5     F401 'pytest' imported but unused
+5     W291 trailing whitespace
+2     W292 no newline at end of file
+2     W293 blank line contains whitespace
+1     W391 blank line at end of file
+./test_ttsgoogle.py:1:1: F401 'pytest' imported but unused
+./test_ttsgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_ttsgoogle.py:11:20: E231 missing whitespace after ','
+./test_ttsgoogle.py:11:30: E231 missing whitespace after ','
+./record.py:13:34: E231 missing whitespace after ','
+./record.py:13:52: E231 missing whitespace after ','
+./record.py:13:62: E231 missing whitespace after ','
+./record.py:13:73: E231 missing whitespace after ','
+./sttgoogle.py:10:2: W291 trailing whitespace
+./sttgoogle.py:23:17: E231 missing whitespace after ':'
+./sttgoogle.py:29:16: E231 missing whitespace after ':'
+./sttgoogle.py:33:1: E302 expected 2 blank lines, found 1
+./sttgoogle.py:33:17: E231 missing whitespace after ':'
+./sttgoogle.py:33:32: E231 missing whitespace after ':'
+./sttgoogle.py:38:47: E231 missing whitespace after ','
+./sttgoogle.py:38:62: E231 missing whitespace after ':'
+./sttgoogle.py:49:67: W292 no newline at end of file
+./main.py:27:16: W291 trailing whitespace
+./main.py:32:6: E111 indentation is not a multiple of 4
+./main.py:32:6: E117 over-indented
+./main.py:33:6: E111 indentation is not a multiple of 4
+./main.py:34:6: E111 indentation is not a multiple of 4
+./main.py:35:11: E111 indentation is not a multiple of 4
+./main.py:35:11: E117 over-indented
+./main.py:36:6: E111 indentation is not a multiple of 4
+./main.py:39:6: E111 indentation is not a multiple of 4
+./main.py:39:6: E117 over-indented
+./main.py:40:6: E111 indentation is not a multiple of 4
+./main.py:41:6: E111 indentation is not a multiple of 4
+./main.py:42:11: E111 indentation is not a multiple of 4
+./main.py:42:11: E117 over-indented
+./main.py:43:11: E111 indentation is not a multiple of 4
+./main.py:44:6: E111 indentation is not a multiple of 4
+./main.py:54:1: W391 blank line at end of file
+./test_record.py:3:1: E302 expected 2 blank lines, found 1
+./test_record.py:5:29: E231 missing whitespace after ','
+./test_record.py:6:19: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./querywolfram.py:8:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:24:1: E303 too many blank lines (3)
+./querywolfram.py:25:1: E302 expected 2 blank lines, found 3
+./querywolfram.py:38:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:38:26: E231 missing whitespace after ':'
+./querywolfram.py:44:1: W293 blank line contains whitespace
+./querywolfram.py:45:5: E303 too many blank lines (2)
+./querywolfram.py:55:9: E265 block comment should start with '# '
+./querywolfram.py:58:1: E305 expected 2 blank lines after class or function definition, found 1
+./querywolfram.py:67:1: W293 blank line contains whitespace
+./ttsgoogle.py:4:2: W291 trailing whitespace
+./ttsgoogle.py:5:1: F401 'typing.BinaryIO' imported but unused
+./ttsgoogle.py:13:1: E303 too many blank lines (3)
+./ttsgoogle.py:14:10: E231 missing whitespace after ':'
+./ttsgoogle.py:15:11: E231 missing whitespace after ':'
+./ttsgoogle.py:17:10: E231 missing whitespace after ':'
+./ttsgoogle.py:18:19: E231 missing whitespace after ':'
+./ttsgoogle.py:19:11: E231 missing whitespace after ':'
+./ttsgoogle.py:21:16: E231 missing whitespace after ':'
+./ttsgoogle.py:22:20: E231 missing whitespace after ':'
+./ttsgoogle.py:26:1: E302 expected 2 blank lines, found 1
+./ttsgoogle.py:26:16: E231 missing whitespace after ':'
+./ttsgoogle.py:26:34: E231 missing whitespace after ':'
+./ttsgoogle.py:26:44: E231 missing whitespace after ':'
+./ttsgoogle.py:26:58: E231 missing whitespace after ':'
+./ttsgoogle.py:26:62: E252 missing whitespace around parameter equals
+./ttsgoogle.py:26:63: E252 missing whitespace around parameter equals
+./ttsgoogle.py:27:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:28:66: W291 trailing whitespace
+./ttsgoogle.py:31:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:45: E231 missing whitespace after ','
+./ttsgoogle.py:31:60: E231 missing whitespace after ':'
+./ttsgoogle.py:32:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:33:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:34:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:37:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:39:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:41:7: E111 indentation is not a multiple of 4
+./ttsgoogle.py:43:3: E111 indentation is not a multiple of 4
+./play.py:7:1: E302 expected 2 blank lines, found 1
+./play.py:7:18: E231 missing whitespace after ':'
+./play.py:9:75: W291 trailing whitespace
+./play.py:13:23: E721 do not compare types, use 'isinstance()'
+./play.py:19:17: E128 continuation line under-indented for visual indent
+./play.py:20:17: E128 continuation line under-indented for visual indent
+./play.py:21:17: E128 continuation line under-indented for visual indent
+./test_play.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:1:1: F401 'pytest' imported but unused
+./test_sttgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:10:28: E231 missing whitespace after ','
+./test_sttgoogle.py:11:36: W292 no newline at end of file
+./test_querywolfram.py:1:1: F401 'pytest' imported but unused
+./test_querywolfram.py:2:1: F401 'querywolfram.answer_query' imported but unused
+./test_querywolfram.py:4:1: E302 expected 2 blank lines, found 1
+20    E111 indentation is not a multiple of 4
+4     E117 over-indented
+3     E128 continuation line under-indented for visual indent
+29    E231 missing whitespace after ':'
+2     E252 missing whitespace around parameter equals
+1     E265 block comment should start with '# '
+11    E302 expected 2 blank lines, found 1
+3     E303 too many blank lines (3)
+1     E305 expected 2 blank lines after class or function definition, found 1
+1     E712 comparison to True should be 'if cond is True:' or 'if cond:'
+1     E721 do not compare types, use 'isinstance()'
+5     F401 'pytest' imported but unused
+5     W291 trailing whitespace
+2     W292 no newline at end of file
+2     W293 blank line contains whitespace
+1     W391 blank line at end of file
+./test_ttsgoogle.py:1:1: F401 'pytest' imported but unused
+./test_ttsgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_ttsgoogle.py:11:20: E231 missing whitespace after ','
+./test_ttsgoogle.py:11:30: E231 missing whitespace after ','
+./record.py:11:1: E303 too many blank lines (3)
+./record.py:14:34: E231 missing whitespace after ','
+./record.py:14:52: E231 missing whitespace after ','
+./record.py:14:62: E231 missing whitespace after ','
+./record.py:14:73: E231 missing whitespace after ','
+./sttgoogle.py:10:2: W291 trailing whitespace
+./sttgoogle.py:23:17: E231 missing whitespace after ':'
+./sttgoogle.py:29:16: E231 missing whitespace after ':'
+./sttgoogle.py:33:1: E302 expected 2 blank lines, found 1
+./sttgoogle.py:33:17: E231 missing whitespace after ':'
+./sttgoogle.py:33:32: E231 missing whitespace after ':'
+./sttgoogle.py:38:47: E231 missing whitespace after ','
+./sttgoogle.py:38:62: E231 missing whitespace after ':'
+./sttgoogle.py:49:67: W292 no newline at end of file
+./main.py:27:16: W291 trailing whitespace
+./main.py:32:6: E111 indentation is not a multiple of 4
+./main.py:32:6: E117 over-indented
+./main.py:33:6: E111 indentation is not a multiple of 4
+./main.py:34:6: E111 indentation is not a multiple of 4
+./main.py:35:11: E111 indentation is not a multiple of 4
+./main.py:35:11: E117 over-indented
+./main.py:36:6: E111 indentation is not a multiple of 4
+./main.py:39:6: E111 indentation is not a multiple of 4
+./main.py:39:6: E117 over-indented
+./main.py:40:6: E111 indentation is not a multiple of 4
+./main.py:41:6: E111 indentation is not a multiple of 4
+./main.py:42:11: E111 indentation is not a multiple of 4
+./main.py:42:11: E117 over-indented
+./main.py:43:11: E111 indentation is not a multiple of 4
+./main.py:44:6: E111 indentation is not a multiple of 4
+./main.py:54:1: W391 blank line at end of file
+./test_record.py:3:1: E302 expected 2 blank lines, found 1
+./test_record.py:5:29: E231 missing whitespace after ','
+./test_record.py:6:19: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./querywolfram.py:8:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:24:1: E303 too many blank lines (3)
+./querywolfram.py:25:1: E302 expected 2 blank lines, found 3
+./querywolfram.py:38:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:38:26: E231 missing whitespace after ':'
+./querywolfram.py:44:1: W293 blank line contains whitespace
+./querywolfram.py:45:5: E303 too many blank lines (2)
+./querywolfram.py:55:9: E265 block comment should start with '# '
+./querywolfram.py:58:1: E305 expected 2 blank lines after class or function definition, found 1
+./querywolfram.py:67:1: W293 blank line contains whitespace
+./ttsgoogle.py:4:2: W291 trailing whitespace
+./ttsgoogle.py:5:1: F401 'typing.BinaryIO' imported but unused
+./ttsgoogle.py:13:1: E303 too many blank lines (3)
+./ttsgoogle.py:14:10: E231 missing whitespace after ':'
+./ttsgoogle.py:15:11: E231 missing whitespace after ':'
+./ttsgoogle.py:17:10: E231 missing whitespace after ':'
+./ttsgoogle.py:18:19: E231 missing whitespace after ':'
+./ttsgoogle.py:19:11: E231 missing whitespace after ':'
+./ttsgoogle.py:21:16: E231 missing whitespace after ':'
+./ttsgoogle.py:22:20: E231 missing whitespace after ':'
+./ttsgoogle.py:26:1: E302 expected 2 blank lines, found 1
+./ttsgoogle.py:26:16: E231 missing whitespace after ':'
+./ttsgoogle.py:26:34: E231 missing whitespace after ':'
+./ttsgoogle.py:26:44: E231 missing whitespace after ':'
+./ttsgoogle.py:26:58: E231 missing whitespace after ':'
+./ttsgoogle.py:26:62: E252 missing whitespace around parameter equals
+./ttsgoogle.py:26:63: E252 missing whitespace around parameter equals
+./ttsgoogle.py:27:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:28:66: W291 trailing whitespace
+./ttsgoogle.py:31:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:45: E231 missing whitespace after ','
+./ttsgoogle.py:31:60: E231 missing whitespace after ':'
+./ttsgoogle.py:32:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:33:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:34:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:37:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:39:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:41:7: E111 indentation is not a multiple of 4
+./ttsgoogle.py:43:3: E111 indentation is not a multiple of 4
+./play.py:7:1: E302 expected 2 blank lines, found 1
+./play.py:7:18: E231 missing whitespace after ':'
+./play.py:9:75: W291 trailing whitespace
+./play.py:13:23: E721 do not compare types, use 'isinstance()'
+./play.py:19:17: E128 continuation line under-indented for visual indent
+./play.py:20:17: E128 continuation line under-indented for visual indent
+./play.py:21:17: E128 continuation line under-indented for visual indent
+./test_play.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:1:1: F401 'pytest' imported but unused
+./test_sttgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:10:28: E231 missing whitespace after ','
+./test_sttgoogle.py:11:36: W292 no newline at end of file
+./test_querywolfram.py:1:1: F401 'pytest' imported but unused
+./test_querywolfram.py:2:1: F401 'querywolfram.answer_query' imported but unused
+./test_querywolfram.py:4:1: E302 expected 2 blank lines, found 1
+20    E111 indentation is not a multiple of 4
+4     E117 over-indented
+3     E128 continuation line under-indented for visual indent
+29    E231 missing whitespace after ':'
+2     E252 missing whitespace around parameter equals
+1     E265 block comment should start with '# '
+11    E302 expected 2 blank lines, found 1
+4     E303 too many blank lines (3)
+1     E305 expected 2 blank lines after class or function definition, found 1
+1     E712 comparison to True should be 'if cond is True:' or 'if cond:'
+1     E721 do not compare types, use 'isinstance()'
+5     F401 'pytest' imported but unused
+5     W291 trailing whitespace
+2     W292 no newline at end of file
+2     W293 blank line contains whitespace
+1     W391 blank line at end of file
+./test_ttsgoogle.py:1:1: F401 'pytest' imported but unused
+./test_ttsgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_ttsgoogle.py:11:20: E231 missing whitespace after ','
+./test_ttsgoogle.py:11:30: E231 missing whitespace after ','
+./sttgoogle.py:10:2: W291 trailing whitespace
+./sttgoogle.py:23:17: E231 missing whitespace after ':'
+./sttgoogle.py:29:16: E231 missing whitespace after ':'
+./sttgoogle.py:33:1: E302 expected 2 blank lines, found 1
+./sttgoogle.py:33:17: E231 missing whitespace after ':'
+./sttgoogle.py:33:32: E231 missing whitespace after ':'
+./sttgoogle.py:38:47: E231 missing whitespace after ','
+./sttgoogle.py:38:62: E231 missing whitespace after ':'
+./test_record.py:3:1: E302 expected 2 blank lines, found 1
+./test_record.py:5:29: E231 missing whitespace after ','
+./test_record.py:6:19: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./querywolfram.py:8:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:24:1: E303 too many blank lines (3)
+./querywolfram.py:25:1: E302 expected 2 blank lines, found 3
+./querywolfram.py:38:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:38:26: E231 missing whitespace after ':'
+./querywolfram.py:44:1: W293 blank line contains whitespace
+./querywolfram.py:45:5: E303 too many blank lines (2)
+./querywolfram.py:55:9: E265 block comment should start with '# '
+./querywolfram.py:58:1: E305 expected 2 blank lines after class or function definition, found 1
+./querywolfram.py:67:1: W293 blank line contains whitespace
+./ttsgoogle.py:4:2: W291 trailing whitespace
+./ttsgoogle.py:5:1: F401 'typing.BinaryIO' imported but unused
+./ttsgoogle.py:13:1: E303 too many blank lines (3)
+./ttsgoogle.py:14:10: E231 missing whitespace after ':'
+./ttsgoogle.py:15:11: E231 missing whitespace after ':'
+./ttsgoogle.py:17:10: E231 missing whitespace after ':'
+./ttsgoogle.py:18:19: E231 missing whitespace after ':'
+./ttsgoogle.py:19:11: E231 missing whitespace after ':'
+./ttsgoogle.py:21:16: E231 missing whitespace after ':'
+./ttsgoogle.py:22:20: E231 missing whitespace after ':'
+./ttsgoogle.py:26:1: E302 expected 2 blank lines, found 1
+./ttsgoogle.py:26:16: E231 missing whitespace after ':'
+./ttsgoogle.py:26:34: E231 missing whitespace after ':'
+./ttsgoogle.py:26:44: E231 missing whitespace after ':'
+./ttsgoogle.py:26:58: E231 missing whitespace after ':'
+./ttsgoogle.py:26:62: E252 missing whitespace around parameter equals
+./ttsgoogle.py:26:63: E252 missing whitespace around parameter equals
+./ttsgoogle.py:27:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:28:66: W291 trailing whitespace
+./ttsgoogle.py:31:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:45: E231 missing whitespace after ','
+./ttsgoogle.py:31:60: E231 missing whitespace after ':'
+./ttsgoogle.py:32:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:33:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:34:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:37:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:39:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:41:7: E111 indentation is not a multiple of 4
+./ttsgoogle.py:43:3: E111 indentation is not a multiple of 4
+./gui_main.py:40:5: E265 block comment should start with '# '
+./gui_main.py:45:5: E265 block comment should start with '# '
+./gui_main.py:48:5: E265 block comment should start with '# '
+./gui_main.py:51:5: E265 block comment should start with '# '
+./gui_main.py:54:5: E265 block comment should start with '# '
+./gui_main.py:57:1: E302 expected 2 blank lines, found 1
+./gui_main.py:62:1: W293 blank line contains whitespace
+./gui_main.py:63:1: E302 expected 2 blank lines, found 1
+./gui_main.py:93:9: E265 block comment should start with '# '
+./gui_main.py:94:1: W293 blank line contains whitespace
+./gui_main.py:101:1: W293 blank line contains whitespace
+./gui_main.py:112:25: E231 missing whitespace after ','
+./gui_main.py:113:44: E231 missing whitespace after ','
+./gui_main.py:114:1: W293 blank line contains whitespace
+./gui_main.py:121:49: W291 trailing whitespace
+./gui_main.py:123:1: W293 blank line contains whitespace
+./gui_main.py:136:38: W291 trailing whitespace
+./gui_main.py:201:36: W291 trailing whitespace
+./gui_main.py:208:13: E265 block comment should start with '# '
+./test_play.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:1:1: F401 'pytest' imported but unused
+./test_sttgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:10:28: E231 missing whitespace after ','
+./test_sttgoogle.py:11:36: W292 no newline at end of file
+./no_gui_main.py:28:16: W291 trailing whitespace
+./test_querywolfram.py:1:1: F401 'pytest' imported but unused
+./test_querywolfram.py:2:1: F401 'querywolfram.answer_query' imported but unused
+./test_querywolfram.py:4:1: E302 expected 2 blank lines, found 1
+9     E111 indentation is not a multiple of 4
+26    E231 missing whitespace after ','
+2     E252 missing whitespace around parameter equals
+8     E265 block comment should start with '# '
+12    E302 expected 2 blank lines, found 1
+3     E303 too many blank lines (3)
+1     E305 expected 2 blank lines after class or function definition, found 1
+1     E712 comparison to True should be 'if cond is True:' or 'if cond:'
+5     F401 'pytest' imported but unused
+7     W291 trailing whitespace
+1     W292 no newline at end of file
+7     W293 blank line contains whitespace
+./test_ttsgoogle.py:1:1: F401 'pytest' imported but unused
+./test_ttsgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_ttsgoogle.py:11:20: E231 missing whitespace after ','
+./test_ttsgoogle.py:11:30: E231 missing whitespace after ','
+./sttgoogle.py:10:2: W291 trailing whitespace
+./sttgoogle.py:23:17: E231 missing whitespace after ':'
+./sttgoogle.py:29:16: E231 missing whitespace after ':'
+./sttgoogle.py:33:1: E302 expected 2 blank lines, found 1
+./sttgoogle.py:33:17: E231 missing whitespace after ':'
+./sttgoogle.py:33:32: E231 missing whitespace after ':'
+./sttgoogle.py:38:47: E231 missing whitespace after ','
+./sttgoogle.py:38:62: E231 missing whitespace after ':'
+./test_record.py:3:1: E302 expected 2 blank lines, found 1
+./test_record.py:5:29: E231 missing whitespace after ','
+./test_record.py:6:19: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./querywolfram.py:8:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:24:1: E303 too many blank lines (3)
+./querywolfram.py:25:1: E302 expected 2 blank lines, found 3
+./querywolfram.py:38:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:38:26: E231 missing whitespace after ':'
+./querywolfram.py:44:1: W293 blank line contains whitespace
+./querywolfram.py:45:5: E303 too many blank lines (2)
+./querywolfram.py:55:9: E265 block comment should start with '# '
+./querywolfram.py:58:1: E305 expected 2 blank lines after class or function definition, found 1
+./querywolfram.py:67:1: W293 blank line contains whitespace
+./ttsgoogle.py:4:2: W291 trailing whitespace
+./ttsgoogle.py:5:1: F401 'typing.BinaryIO' imported but unused
+./ttsgoogle.py:13:1: E303 too many blank lines (3)
+./ttsgoogle.py:14:10: E231 missing whitespace after ':'
+./ttsgoogle.py:15:11: E231 missing whitespace after ':'
+./ttsgoogle.py:17:10: E231 missing whitespace after ':'
+./ttsgoogle.py:18:19: E231 missing whitespace after ':'
+./ttsgoogle.py:19:11: E231 missing whitespace after ':'
+./ttsgoogle.py:21:16: E231 missing whitespace after ':'
+./ttsgoogle.py:22:20: E231 missing whitespace after ':'
+./ttsgoogle.py:26:1: E302 expected 2 blank lines, found 1
+./ttsgoogle.py:26:16: E231 missing whitespace after ':'
+./ttsgoogle.py:26:34: E231 missing whitespace after ':'
+./ttsgoogle.py:26:44: E231 missing whitespace after ':'
+./ttsgoogle.py:26:58: E231 missing whitespace after ':'
+./ttsgoogle.py:26:62: E252 missing whitespace around parameter equals
+./ttsgoogle.py:26:63: E252 missing whitespace around parameter equals
+./ttsgoogle.py:27:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:28:66: W291 trailing whitespace
+./ttsgoogle.py:31:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:45: E231 missing whitespace after ','
+./ttsgoogle.py:31:60: E231 missing whitespace after ':'
+./ttsgoogle.py:32:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:33:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:34:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:37:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:39:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:41:7: E111 indentation is not a multiple of 4
+./ttsgoogle.py:43:3: E111 indentation is not a multiple of 4
+./gui_main.py:40:5: E265 block comment should start with '# '
+./gui_main.py:45:5: E265 block comment should start with '# '
+./gui_main.py:48:5: E265 block comment should start with '# '
+./gui_main.py:51:5: E265 block comment should start with '# '
+./gui_main.py:54:5: E265 block comment should start with '# '
+./gui_main.py:57:1: E302 expected 2 blank lines, found 1
+./gui_main.py:62:1: W293 blank line contains whitespace
+./gui_main.py:63:1: E302 expected 2 blank lines, found 1
+./gui_main.py:93:9: E265 block comment should start with '# '
+./gui_main.py:94:1: W293 blank line contains whitespace
+./gui_main.py:101:1: W293 blank line contains whitespace
+./gui_main.py:112:25: E231 missing whitespace after ','
+./gui_main.py:113:44: E231 missing whitespace after ','
+./gui_main.py:114:1: W293 blank line contains whitespace
+./gui_main.py:121:49: W291 trailing whitespace
+./gui_main.py:123:1: W293 blank line contains whitespace
+./gui_main.py:136:38: W291 trailing whitespace
+./gui_main.py:201:36: W291 trailing whitespace
+./gui_main.py:208:13: E265 block comment should start with '# '
+./test_play.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:1:1: F401 'pytest' imported but unused
+./test_sttgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:10:28: E231 missing whitespace after ','
+./test_sttgoogle.py:11:36: W292 no newline at end of file
+./no_gui_main.py:28:16: W291 trailing whitespace
+./test_querywolfram.py:1:1: F401 'pytest' imported but unused
+./test_querywolfram.py:2:1: F401 'querywolfram.answer_query' imported but unused
+./test_querywolfram.py:4:1: E302 expected 2 blank lines, found 1
+9     E111 indentation is not a multiple of 4
+26    E231 missing whitespace after ','
+2     E252 missing whitespace around parameter equals
+8     E265 block comment should start with '# '
+12    E302 expected 2 blank lines, found 1
+3     E303 too many blank lines (3)
+1     E305 expected 2 blank lines after class or function definition, found 1
+1     E712 comparison to True should be 'if cond is True:' or 'if cond:'
+5     F401 'pytest' imported but unused
+7     W291 trailing whitespace
+1     W292 no newline at end of file
+7     W293 blank line contains whitespace
+./test_ttsgoogle.py:1:1: F401 'pytest' imported but unused
+./test_ttsgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_ttsgoogle.py:11:20: E231 missing whitespace after ','
+./test_ttsgoogle.py:11:30: E231 missing whitespace after ','
+./sttgoogle.py:10:2: W291 trailing whitespace
+./sttgoogle.py:23:17: E231 missing whitespace after ':'
+./sttgoogle.py:29:16: E231 missing whitespace after ':'
+./sttgoogle.py:33:1: E302 expected 2 blank lines, found 1
+./sttgoogle.py:33:17: E231 missing whitespace after ':'
+./sttgoogle.py:33:32: E231 missing whitespace after ':'
+./sttgoogle.py:38:47: E231 missing whitespace after ','
+./sttgoogle.py:38:62: E231 missing whitespace after ':'
+./test_record.py:3:1: E302 expected 2 blank lines, found 1
+./test_record.py:5:29: E231 missing whitespace after ','
+./test_record.py:6:19: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./querywolfram.py:8:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:24:1: E303 too many blank lines (3)
+./querywolfram.py:25:1: E302 expected 2 blank lines, found 3
+./querywolfram.py:38:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:38:26: E231 missing whitespace after ':'
+./querywolfram.py:44:1: W293 blank line contains whitespace
+./querywolfram.py:45:5: E303 too many blank lines (2)
+./querywolfram.py:55:9: E265 block comment should start with '# '
+./querywolfram.py:58:1: E305 expected 2 blank lines after class or function definition, found 1
+./querywolfram.py:67:1: W293 blank line contains whitespace
+./ttsgoogle.py:4:2: W291 trailing whitespace
+./ttsgoogle.py:5:1: F401 'typing.BinaryIO' imported but unused
+./ttsgoogle.py:13:1: E303 too many blank lines (3)
+./ttsgoogle.py:14:10: E231 missing whitespace after ':'
+./ttsgoogle.py:15:11: E231 missing whitespace after ':'
+./ttsgoogle.py:17:10: E231 missing whitespace after ':'
+./ttsgoogle.py:18:19: E231 missing whitespace after ':'
+./ttsgoogle.py:19:11: E231 missing whitespace after ':'
+./ttsgoogle.py:21:16: E231 missing whitespace after ':'
+./ttsgoogle.py:22:20: E231 missing whitespace after ':'
+./ttsgoogle.py:26:1: E302 expected 2 blank lines, found 1
+./ttsgoogle.py:26:16: E231 missing whitespace after ':'
+./ttsgoogle.py:26:34: E231 missing whitespace after ':'
+./ttsgoogle.py:26:44: E231 missing whitespace after ':'
+./ttsgoogle.py:26:58: E231 missing whitespace after ':'
+./ttsgoogle.py:26:62: E252 missing whitespace around parameter equals
+./ttsgoogle.py:26:63: E252 missing whitespace around parameter equals
+./ttsgoogle.py:27:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:28:66: W291 trailing whitespace
+./ttsgoogle.py:31:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:45: E231 missing whitespace after ','
+./ttsgoogle.py:31:60: E231 missing whitespace after ':'
+./ttsgoogle.py:32:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:33:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:34:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:37:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:39:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:41:7: E111 indentation is not a multiple of 4
+./ttsgoogle.py:43:3: E111 indentation is not a multiple of 4
+./test_gui_main.py:1:1: F401 'pytest' imported but unused
+./test_gui_main.py:2:1: F401 'gui_main.ThreadedClient' imported but unused
+./gui_main.py:32:1: E302 expected 2 blank lines, found 1
+./gui_main.py:37:5: E265 block comment should start with '# '
+./gui_main.py:42:5: E265 block comment should start with '# '
+./gui_main.py:45:5: E265 block comment should start with '# '
+./gui_main.py:48:5: E265 block comment should start with '# '
+./gui_main.py:51:5: E265 block comment should start with '# '
+./gui_main.py:54:1: E302 expected 2 blank lines, found 1
+./gui_main.py:59:1: W293 blank line contains whitespace
+./gui_main.py:60:1: E302 expected 2 blank lines, found 1
+./gui_main.py:90:9: E265 block comment should start with '# '
+./gui_main.py:91:1: W293 blank line contains whitespace
+./gui_main.py:98:1: W293 blank line contains whitespace
+./gui_main.py:109:25: E231 missing whitespace after ','
+./gui_main.py:110:44: E231 missing whitespace after ','
+./gui_main.py:111:1: W293 blank line contains whitespace
+./gui_main.py:118:49: W291 trailing whitespace
+./gui_main.py:120:1: W293 blank line contains whitespace
+./gui_main.py:133:38: W291 trailing whitespace
+./gui_main.py:198:36: W291 trailing whitespace
+./gui_main.py:205:13: E265 block comment should start with '# '
+./gui_main.py:208:1: E305 expected 2 blank lines after class or function definition, found 1
+./test_play.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:1:1: F401 'pytest' imported but unused
+./test_sttgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:10:28: E231 missing whitespace after ','
+./test_sttgoogle.py:11:36: W292 no newline at end of file
+./no_gui_main.py:28:16: W291 trailing whitespace
+./test_querywolfram.py:1:1: F401 'pytest' imported but unused
+./test_querywolfram.py:2:1: F401 'querywolfram.answer_query' imported but unused
+./test_querywolfram.py:4:1: E302 expected 2 blank lines, found 1
+9     E111 indentation is not a multiple of 4
+26    E231 missing whitespace after ','
+2     E252 missing whitespace around parameter equals
+8     E265 block comment should start with '# '
+13    E302 expected 2 blank lines, found 1
+3     E303 too many blank lines (3)
+2     E305 expected 2 blank lines after class or function definition, found 1
+1     E712 comparison to True should be 'if cond is True:' or 'if cond:'
+7     F401 'pytest' imported but unused
+7     W291 trailing whitespace
+1     W292 no newline at end of file
+7     W293 blank line contains whitespace
+./test_ttsgoogle.py:1:1: F401 'pytest' imported but unused
+./test_ttsgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_ttsgoogle.py:11:20: E231 missing whitespace after ','
+./test_ttsgoogle.py:11:30: E231 missing whitespace after ','
+./sttgoogle.py:10:2: W291 trailing whitespace
+./sttgoogle.py:23:17: E231 missing whitespace after ':'
+./sttgoogle.py:29:16: E231 missing whitespace after ':'
+./sttgoogle.py:33:1: E302 expected 2 blank lines, found 1
+./sttgoogle.py:33:17: E231 missing whitespace after ':'
+./sttgoogle.py:33:32: E231 missing whitespace after ':'
+./sttgoogle.py:38:47: E231 missing whitespace after ','
+./sttgoogle.py:38:62: E231 missing whitespace after ':'
+./test_record.py:3:1: E302 expected 2 blank lines, found 1
+./test_record.py:5:29: E231 missing whitespace after ','
+./test_record.py:6:19: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./querywolfram.py:8:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:24:1: E303 too many blank lines (3)
+./querywolfram.py:25:1: E302 expected 2 blank lines, found 3
+./querywolfram.py:38:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:38:26: E231 missing whitespace after ':'
+./querywolfram.py:44:1: W293 blank line contains whitespace
+./querywolfram.py:45:5: E303 too many blank lines (2)
+./querywolfram.py:55:9: E265 block comment should start with '# '
+./querywolfram.py:58:1: E305 expected 2 blank lines after class or function definition, found 1
+./querywolfram.py:67:1: W293 blank line contains whitespace
+./ttsgoogle.py:4:2: W291 trailing whitespace
+./ttsgoogle.py:5:1: F401 'typing.BinaryIO' imported but unused
+./ttsgoogle.py:13:1: E303 too many blank lines (3)
+./ttsgoogle.py:14:10: E231 missing whitespace after ':'
+./ttsgoogle.py:15:11: E231 missing whitespace after ':'
+./ttsgoogle.py:17:10: E231 missing whitespace after ':'
+./ttsgoogle.py:18:19: E231 missing whitespace after ':'
+./ttsgoogle.py:19:11: E231 missing whitespace after ':'
+./ttsgoogle.py:21:16: E231 missing whitespace after ':'
+./ttsgoogle.py:22:20: E231 missing whitespace after ':'
+./ttsgoogle.py:26:1: E302 expected 2 blank lines, found 1
+./ttsgoogle.py:26:16: E231 missing whitespace after ':'
+./ttsgoogle.py:26:34: E231 missing whitespace after ':'
+./ttsgoogle.py:26:44: E231 missing whitespace after ':'
+./ttsgoogle.py:26:58: E231 missing whitespace after ':'
+./ttsgoogle.py:26:62: E252 missing whitespace around parameter equals
+./ttsgoogle.py:26:63: E252 missing whitespace around parameter equals
+./ttsgoogle.py:27:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:28:66: W291 trailing whitespace
+./ttsgoogle.py:31:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:45: E231 missing whitespace after ','
+./ttsgoogle.py:31:60: E231 missing whitespace after ':'
+./ttsgoogle.py:32:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:33:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:34:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:37:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:39:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:41:7: E111 indentation is not a multiple of 4
+./ttsgoogle.py:43:3: E111 indentation is not a multiple of 4
+./test_gui_main.py:1:1: F401 'pytest' imported but unused
+./test_gui_main.py:2:1: F401 'gui_main.ThreadedClient' imported but unused
+./gui_main.py:32:1: E302 expected 2 blank lines, found 1
+./gui_main.py:37:5: E265 block comment should start with '# '
+./gui_main.py:42:5: E265 block comment should start with '# '
+./gui_main.py:45:5: E265 block comment should start with '# '
+./gui_main.py:48:5: E265 block comment should start with '# '
+./gui_main.py:51:5: E265 block comment should start with '# '
+./gui_main.py:54:1: E302 expected 2 blank lines, found 1
+./gui_main.py:59:1: W293 blank line contains whitespace
+./gui_main.py:60:1: E302 expected 2 blank lines, found 1
+./gui_main.py:90:9: E265 block comment should start with '# '
+./gui_main.py:91:1: W293 blank line contains whitespace
+./gui_main.py:98:1: W293 blank line contains whitespace
+./gui_main.py:109:25: E231 missing whitespace after ','
+./gui_main.py:110:44: E231 missing whitespace after ','
+./gui_main.py:111:1: W293 blank line contains whitespace
+./gui_main.py:118:49: W291 trailing whitespace
+./gui_main.py:120:1: W293 blank line contains whitespace
+./gui_main.py:133:38: W291 trailing whitespace
+./gui_main.py:198:36: W291 trailing whitespace
+./gui_main.py:205:13: E265 block comment should start with '# '
+./gui_main.py:208:1: E305 expected 2 blank lines after class or function definition, found 1
+./test_play.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:1:1: F401 'pytest' imported but unused
+./test_sttgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:10:28: E231 missing whitespace after ','
+./test_sttgoogle.py:11:36: W292 no newline at end of file
+./no_gui_main.py:28:16: W291 trailing whitespace
+./test_querywolfram.py:1:1: F401 'pytest' imported but unused
+./test_querywolfram.py:2:1: F401 'querywolfram.answer_query' imported but unused
+./test_querywolfram.py:4:1: E302 expected 2 blank lines, found 1
+9     E111 indentation is not a multiple of 4
+26    E231 missing whitespace after ','
+2     E252 missing whitespace around parameter equals
+8     E265 block comment should start with '# '
+13    E302 expected 2 blank lines, found 1
+3     E303 too many blank lines (3)
+2     E305 expected 2 blank lines after class or function definition, found 1
+1     E712 comparison to True should be 'if cond is True:' or 'if cond:'
+7     F401 'pytest' imported but unused
+7     W291 trailing whitespace
+1     W292 no newline at end of file
+7     W293 blank line contains whitespace
+./test_ttsgoogle.py:1:1: F401 'pytest' imported but unused
+./test_ttsgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_ttsgoogle.py:11:20: E231 missing whitespace after ','
+./test_ttsgoogle.py:11:30: E231 missing whitespace after ','
+./sttgoogle.py:10:2: W291 trailing whitespace
+./sttgoogle.py:23:17: E231 missing whitespace after ':'
+./sttgoogle.py:29:16: E231 missing whitespace after ':'
+./sttgoogle.py:33:1: E302 expected 2 blank lines, found 1
+./sttgoogle.py:33:17: E231 missing whitespace after ':'
+./sttgoogle.py:33:32: E231 missing whitespace after ':'
+./sttgoogle.py:38:47: E231 missing whitespace after ','
+./sttgoogle.py:38:62: E231 missing whitespace after ':'
+./test_record.py:3:1: E302 expected 2 blank lines, found 1
+./test_record.py:5:29: E231 missing whitespace after ','
+./test_record.py:6:19: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./querywolfram.py:8:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:24:1: E303 too many blank lines (3)
+./querywolfram.py:25:1: E302 expected 2 blank lines, found 3
+./querywolfram.py:38:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:38:26: E231 missing whitespace after ':'
+./querywolfram.py:44:1: W293 blank line contains whitespace
+./querywolfram.py:45:5: E303 too many blank lines (2)
+./querywolfram.py:55:9: E265 block comment should start with '# '
+./querywolfram.py:58:1: E305 expected 2 blank lines after class or function definition, found 1
+./querywolfram.py:67:1: W293 blank line contains whitespace
+./ttsgoogle.py:4:2: W291 trailing whitespace
+./ttsgoogle.py:5:1: F401 'typing.BinaryIO' imported but unused
+./ttsgoogle.py:13:1: E303 too many blank lines (3)
+./ttsgoogle.py:14:10: E231 missing whitespace after ':'
+./ttsgoogle.py:15:11: E231 missing whitespace after ':'
+./ttsgoogle.py:17:10: E231 missing whitespace after ':'
+./ttsgoogle.py:18:19: E231 missing whitespace after ':'
+./ttsgoogle.py:19:11: E231 missing whitespace after ':'
+./ttsgoogle.py:21:16: E231 missing whitespace after ':'
+./ttsgoogle.py:22:20: E231 missing whitespace after ':'
+./ttsgoogle.py:26:1: E302 expected 2 blank lines, found 1
+./ttsgoogle.py:26:16: E231 missing whitespace after ':'
+./ttsgoogle.py:26:34: E231 missing whitespace after ':'
+./ttsgoogle.py:26:44: E231 missing whitespace after ':'
+./ttsgoogle.py:26:58: E231 missing whitespace after ':'
+./ttsgoogle.py:26:62: E252 missing whitespace around parameter equals
+./ttsgoogle.py:26:63: E252 missing whitespace around parameter equals
+./ttsgoogle.py:27:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:28:66: W291 trailing whitespace
+./ttsgoogle.py:31:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:45: E231 missing whitespace after ','
+./ttsgoogle.py:31:60: E231 missing whitespace after ':'
+./ttsgoogle.py:32:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:33:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:34:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:37:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:39:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:41:7: E111 indentation is not a multiple of 4
+./ttsgoogle.py:43:3: E111 indentation is not a multiple of 4
+./test_gui_main.py:1:1: F401 'pytest' imported but unused
+./test_gui_main.py:2:1: F401 'gui_main.ThreadedClient' imported but unused
+./gui_main.py:32:1: E302 expected 2 blank lines, found 1
+./gui_main.py:37:5: E265 block comment should start with '# '
+./gui_main.py:42:5: E265 block comment should start with '# '
+./gui_main.py:45:5: E265 block comment should start with '# '
+./gui_main.py:48:5: E265 block comment should start with '# '
+./gui_main.py:51:5: E265 block comment should start with '# '
+./gui_main.py:54:1: E302 expected 2 blank lines, found 1
+./gui_main.py:59:1: W293 blank line contains whitespace
+./gui_main.py:60:1: E302 expected 2 blank lines, found 1
+./gui_main.py:90:9: E265 block comment should start with '# '
+./gui_main.py:91:1: W293 blank line contains whitespace
+./gui_main.py:98:1: W293 blank line contains whitespace
+./gui_main.py:109:25: E231 missing whitespace after ','
+./gui_main.py:110:44: E231 missing whitespace after ','
+./gui_main.py:111:1: W293 blank line contains whitespace
+./gui_main.py:118:49: W291 trailing whitespace
+./gui_main.py:120:1: W293 blank line contains whitespace
+./gui_main.py:133:38: W291 trailing whitespace
+./gui_main.py:198:36: W291 trailing whitespace
+./gui_main.py:205:13: E265 block comment should start with '# '
+./gui_main.py:208:1: E305 expected 2 blank lines after class or function definition, found 1
+./test_play.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:1:1: F401 'pytest' imported but unused
+./test_sttgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:10:28: E231 missing whitespace after ','
+./test_sttgoogle.py:11:36: W292 no newline at end of file
+./no_gui_main.py:28:16: W291 trailing whitespace
+./test_querywolfram.py:1:1: F401 'pytest' imported but unused
+./test_querywolfram.py:2:1: F401 'querywolfram.answer_query' imported but unused
+./test_querywolfram.py:4:1: E302 expected 2 blank lines, found 1
+9     E111 indentation is not a multiple of 4
+26    E231 missing whitespace after ','
+2     E252 missing whitespace around parameter equals
+8     E265 block comment should start with '# '
+13    E302 expected 2 blank lines, found 1
+3     E303 too many blank lines (3)
+2     E305 expected 2 blank lines after class or function definition, found 1
+1     E712 comparison to True should be 'if cond is True:' or 'if cond:'
+7     F401 'pytest' imported but unused
+7     W291 trailing whitespace
+1     W292 no newline at end of file
+7     W293 blank line contains whitespace
+./test_ttsgoogle.py:1:1: F401 'pytest' imported but unused
+./test_ttsgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_ttsgoogle.py:11:20: E231 missing whitespace after ','
+./test_ttsgoogle.py:11:30: E231 missing whitespace after ','
+./sttgoogle.py:10:2: W291 trailing whitespace
+./sttgoogle.py:23:17: E231 missing whitespace after ':'
+./sttgoogle.py:29:16: E231 missing whitespace after ':'
+./sttgoogle.py:33:1: E302 expected 2 blank lines, found 1
+./sttgoogle.py:33:17: E231 missing whitespace after ':'
+./sttgoogle.py:33:32: E231 missing whitespace after ':'
+./sttgoogle.py:38:47: E231 missing whitespace after ','
+./sttgoogle.py:38:62: E231 missing whitespace after ':'
+./test_record.py:3:1: E302 expected 2 blank lines, found 1
+./test_record.py:5:29: E231 missing whitespace after ','
+./test_record.py:6:19: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./querywolfram.py:8:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:24:1: E303 too many blank lines (3)
+./querywolfram.py:25:1: E302 expected 2 blank lines, found 3
+./querywolfram.py:38:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:38:26: E231 missing whitespace after ':'
+./querywolfram.py:44:1: W293 blank line contains whitespace
+./querywolfram.py:45:5: E303 too many blank lines (2)
+./querywolfram.py:55:9: E265 block comment should start with '# '
+./querywolfram.py:58:1: E305 expected 2 blank lines after class or function definition, found 1
+./querywolfram.py:67:1: W293 blank line contains whitespace
+./ttsgoogle.py:4:2: W291 trailing whitespace
+./ttsgoogle.py:5:1: F401 'typing.BinaryIO' imported but unused
+./ttsgoogle.py:13:1: E303 too many blank lines (3)
+./ttsgoogle.py:14:10: E231 missing whitespace after ':'
+./ttsgoogle.py:15:11: E231 missing whitespace after ':'
+./ttsgoogle.py:17:10: E231 missing whitespace after ':'
+./ttsgoogle.py:18:19: E231 missing whitespace after ':'
+./ttsgoogle.py:19:11: E231 missing whitespace after ':'
+./ttsgoogle.py:21:16: E231 missing whitespace after ':'
+./ttsgoogle.py:22:20: E231 missing whitespace after ':'
+./ttsgoogle.py:26:1: E302 expected 2 blank lines, found 1
+./ttsgoogle.py:26:16: E231 missing whitespace after ':'
+./ttsgoogle.py:26:34: E231 missing whitespace after ':'
+./ttsgoogle.py:26:44: E231 missing whitespace after ':'
+./ttsgoogle.py:26:58: E231 missing whitespace after ':'
+./ttsgoogle.py:26:62: E252 missing whitespace around parameter equals
+./ttsgoogle.py:26:63: E252 missing whitespace around parameter equals
+./ttsgoogle.py:27:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:28:66: W291 trailing whitespace
+./ttsgoogle.py:31:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:45: E231 missing whitespace after ','
+./ttsgoogle.py:31:60: E231 missing whitespace after ':'
+./ttsgoogle.py:32:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:33:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:34:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:37:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:39:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:41:7: E111 indentation is not a multiple of 4
+./ttsgoogle.py:43:3: E111 indentation is not a multiple of 4
+./test_gui_main.py:1:1: F401 'pytest' imported but unused
+./test_gui_main.py:2:1: F401 'gui_main.ThreadedClient' imported but unused
+./gui_main.py:32:1: E302 expected 2 blank lines, found 1
+./gui_main.py:37:5: E265 block comment should start with '# '
+./gui_main.py:42:5: E265 block comment should start with '# '
+./gui_main.py:45:5: E265 block comment should start with '# '
+./gui_main.py:48:5: E265 block comment should start with '# '
+./gui_main.py:51:5: E265 block comment should start with '# '
+./gui_main.py:54:1: E302 expected 2 blank lines, found 1
+./gui_main.py:59:1: W293 blank line contains whitespace
+./gui_main.py:60:1: E302 expected 2 blank lines, found 1
+./gui_main.py:90:9: E265 block comment should start with '# '
+./gui_main.py:91:1: W293 blank line contains whitespace
+./gui_main.py:98:1: W293 blank line contains whitespace
+./gui_main.py:109:25: E231 missing whitespace after ','
+./gui_main.py:110:44: E231 missing whitespace after ','
+./gui_main.py:111:1: W293 blank line contains whitespace
+./gui_main.py:118:49: W291 trailing whitespace
+./gui_main.py:120:1: W293 blank line contains whitespace
+./gui_main.py:133:38: W291 trailing whitespace
+./gui_main.py:198:36: W291 trailing whitespace
+./gui_main.py:205:13: E265 block comment should start with '# '
+./gui_main.py:208:1: E305 expected 2 blank lines after class or function definition, found 1
+./test_play.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:1:1: F401 'pytest' imported but unused
+./test_sttgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:10:28: E231 missing whitespace after ','
+./test_sttgoogle.py:11:36: W292 no newline at end of file
+./no_gui_main.py:28:16: W291 trailing whitespace
+./test_querywolfram.py:1:1: F401 'pytest' imported but unused
+./test_querywolfram.py:2:1: F401 'querywolfram.answer_query' imported but unused
+./test_querywolfram.py:4:1: E302 expected 2 blank lines, found 1
+9     E111 indentation is not a multiple of 4
+26    E231 missing whitespace after ','
+2     E252 missing whitespace around parameter equals
+8     E265 block comment should start with '# '
+13    E302 expected 2 blank lines, found 1
+3     E303 too many blank lines (3)
+2     E305 expected 2 blank lines after class or function definition, found 1
+1     E712 comparison to True should be 'if cond is True:' or 'if cond:'
+7     F401 'pytest' imported but unused
+7     W291 trailing whitespace
+1     W292 no newline at end of file
+7     W293 blank line contains whitespace
+./test_ttsgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_ttsgoogle.py:11:20: E231 missing whitespace after ','
+./test_ttsgoogle.py:11:30: E231 missing whitespace after ','
+./sttgoogle.py:22:3: E121 continuation line under-indented for hanging indent
+./sttgoogle.py:23:17: E231 missing whitespace after ':'
+./sttgoogle.py:29:16: E231 missing whitespace after ':'
+./sttgoogle.py:33:1: E302 expected 2 blank lines, found 1
+./sttgoogle.py:33:17: E231 missing whitespace after ':'
+./sttgoogle.py:33:32: E231 missing whitespace after ':'
+./sttgoogle.py:38:42: E226 missing whitespace around arithmetic operator
+./sttgoogle.py:38:47: E231 missing whitespace after ','
+./sttgoogle.py:38:62: E231 missing whitespace after ':'
+./test_record.py:3:1: E302 expected 2 blank lines, found 1
+./test_record.py:5:29: E231 missing whitespace after ','
+./test_record.py:6:19: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./querywolfram.py:8:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:24:1: E303 too many blank lines (3)
+./querywolfram.py:25:1: E302 expected 2 blank lines, found 3
+./querywolfram.py:38:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:38:26: E231 missing whitespace after ':'
+./querywolfram.py:45:5: E303 too many blank lines (2)
+./querywolfram.py:55:9: E265 block comment should start with '# '
+./querywolfram.py:58:1: E305 expected 2 blank lines after class or function definition, found 1
+./ttsgoogle.py:13:1: E303 too many blank lines (3)
+./ttsgoogle.py:14:3: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:14:10: E231 missing whitespace after ':'
+./ttsgoogle.py:15:5: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:15:11: E231 missing whitespace after ':'
+./ttsgoogle.py:17:10: E231 missing whitespace after ':'
+./ttsgoogle.py:18:5: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:18:19: E231 missing whitespace after ':'
+./ttsgoogle.py:19:11: E231 missing whitespace after ':'
+./ttsgoogle.py:21:16: E231 missing whitespace after ':'
+./ttsgoogle.py:22:5: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:22:20: E231 missing whitespace after ':'
+./ttsgoogle.py:26:1: E302 expected 2 blank lines, found 1
+./ttsgoogle.py:26:16: E231 missing whitespace after ':'
+./ttsgoogle.py:26:34: E231 missing whitespace after ':'
+./ttsgoogle.py:26:44: E231 missing whitespace after ':'
+./ttsgoogle.py:26:58: E231 missing whitespace after ':'
+./ttsgoogle.py:26:62: E252 missing whitespace around parameter equals
+./ttsgoogle.py:26:63: E252 missing whitespace around parameter equals
+./ttsgoogle.py:27:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:40: E226 missing whitespace around arithmetic operator
+./ttsgoogle.py:31:45: E231 missing whitespace after ','
+./ttsgoogle.py:31:60: E231 missing whitespace after ':'
+./ttsgoogle.py:32:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:33:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:34:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:37:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:39:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:41:7: E111 indentation is not a multiple of 4
+./ttsgoogle.py:43:3: E111 indentation is not a multiple of 4
+./gui_main.py:32:1: E302 expected 2 blank lines, found 1
+./gui_main.py:37:5: E265 block comment should start with '# '
+./gui_main.py:42:5: E265 block comment should start with '# '
+./gui_main.py:45:5: E265 block comment should start with '# '
+./gui_main.py:48:5: E265 block comment should start with '# '
+./gui_main.py:51:5: E265 block comment should start with '# '
+./gui_main.py:54:1: E302 expected 2 blank lines, found 1
+./gui_main.py:60:1: E302 expected 2 blank lines, found 1
+./gui_main.py:67:20: E226 missing whitespace around arithmetic operator
+./gui_main.py:67:25: E226 missing whitespace around arithmetic operator
+./gui_main.py:69:28: E226 missing whitespace around arithmetic operator
+./gui_main.py:69:33: E226 missing whitespace around arithmetic operator
+./gui_main.py:69:57: E226 missing whitespace around arithmetic operator
+./gui_main.py:71:21: E126 continuation line over-indented for hanging indent
+./gui_main.py:90:9: E265 block comment should start with '# '
+./gui_main.py:100:17: E126 continuation line over-indented for hanging indent
+./gui_main.py:109:25: E231 missing whitespace after ','
+./gui_main.py:110:44: E231 missing whitespace after ','
+./gui_main.py:205:13: E265 block comment should start with '# '
+./gui_main.py:208:1: E305 expected 2 blank lines after class or function definition, found 1
+./test_play.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:10:28: E231 missing whitespace after ','
+./test_querywolfram.py:4:1: E302 expected 2 blank lines, found 1
+9     E111 indentation is not a multiple of 4
+5     E121 continuation line under-indented for hanging indent
+2     E126 continuation line over-indented for hanging indent
+7     E226 missing whitespace around arithmetic operator
+26    E231 missing whitespace after ','
+2     E252 missing whitespace around parameter equals
+8     E265 block comment should start with '# '
+13    E302 expected 2 blank lines, found 1
+3     E303 too many blank lines (3)
+2     E305 expected 2 blank lines after class or function definition, found 1
+1     E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./test_ttsgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_ttsgoogle.py:11:20: E231 missing whitespace after ','
+./test_ttsgoogle.py:11:30: E231 missing whitespace after ','
+./sttgoogle.py:22:3: E121 continuation line under-indented for hanging indent
+./sttgoogle.py:23:17: E231 missing whitespace after ':'
+./sttgoogle.py:29:16: E231 missing whitespace after ':'
+./sttgoogle.py:33:1: E302 expected 2 blank lines, found 1
+./sttgoogle.py:33:17: E231 missing whitespace after ':'
+./sttgoogle.py:33:32: E231 missing whitespace after ':'
+./sttgoogle.py:38:42: E226 missing whitespace around arithmetic operator
+./sttgoogle.py:38:47: E231 missing whitespace after ','
+./sttgoogle.py:38:62: E231 missing whitespace after ':'
+./test_record.py:3:1: E302 expected 2 blank lines, found 1
+./test_record.py:5:29: E231 missing whitespace after ','
+./test_record.py:6:19: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./querywolfram.py:8:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:24:1: E303 too many blank lines (3)
+./querywolfram.py:25:1: E302 expected 2 blank lines, found 3
+./querywolfram.py:38:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:38:26: E231 missing whitespace after ':'
+./querywolfram.py:45:5: E303 too many blank lines (2)
+./querywolfram.py:55:9: E265 block comment should start with '# '
+./querywolfram.py:58:1: E305 expected 2 blank lines after class or function definition, found 1
+./ttsgoogle.py:13:1: E303 too many blank lines (3)
+./ttsgoogle.py:14:3: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:14:10: E231 missing whitespace after ':'
+./ttsgoogle.py:15:5: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:15:11: E231 missing whitespace after ':'
+./ttsgoogle.py:17:10: E231 missing whitespace after ':'
+./ttsgoogle.py:18:5: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:18:19: E231 missing whitespace after ':'
+./ttsgoogle.py:19:11: E231 missing whitespace after ':'
+./ttsgoogle.py:21:16: E231 missing whitespace after ':'
+./ttsgoogle.py:22:5: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:22:20: E231 missing whitespace after ':'
+./ttsgoogle.py:26:1: E302 expected 2 blank lines, found 1
+./ttsgoogle.py:26:16: E231 missing whitespace after ':'
+./ttsgoogle.py:26:34: E231 missing whitespace after ':'
+./ttsgoogle.py:26:44: E231 missing whitespace after ':'
+./ttsgoogle.py:26:58: E231 missing whitespace after ':'
+./ttsgoogle.py:26:62: E252 missing whitespace around parameter equals
+./ttsgoogle.py:26:63: E252 missing whitespace around parameter equals
+./ttsgoogle.py:27:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:40: E226 missing whitespace around arithmetic operator
+./ttsgoogle.py:31:45: E231 missing whitespace after ','
+./ttsgoogle.py:31:60: E231 missing whitespace after ':'
+./ttsgoogle.py:32:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:33:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:34:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:37:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:39:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:41:7: E111 indentation is not a multiple of 4
+./ttsgoogle.py:43:3: E111 indentation is not a multiple of 4
+./gui_main.py:32:1: E302 expected 2 blank lines, found 1
+./gui_main.py:37:5: E265 block comment should start with '# '
+./gui_main.py:42:5: E265 block comment should start with '# '
+./gui_main.py:45:5: E265 block comment should start with '# '
+./gui_main.py:48:5: E265 block comment should start with '# '
+./gui_main.py:51:5: E265 block comment should start with '# '
+./gui_main.py:54:1: E302 expected 2 blank lines, found 1
+./gui_main.py:60:1: E302 expected 2 blank lines, found 1
+./gui_main.py:67:20: E226 missing whitespace around arithmetic operator
+./gui_main.py:67:25: E226 missing whitespace around arithmetic operator
+./gui_main.py:69:28: E226 missing whitespace around arithmetic operator
+./gui_main.py:69:33: E226 missing whitespace around arithmetic operator
+./gui_main.py:69:57: E226 missing whitespace around arithmetic operator
+./gui_main.py:71:21: E126 continuation line over-indented for hanging indent
+./gui_main.py:90:9: E265 block comment should start with '# '
+./gui_main.py:100:17: E126 continuation line over-indented for hanging indent
+./gui_main.py:109:25: E231 missing whitespace after ','
+./gui_main.py:110:44: E231 missing whitespace after ','
+./gui_main.py:205:13: E265 block comment should start with '# '
+./gui_main.py:208:1: E305 expected 2 blank lines after class or function definition, found 1
+./test_play.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:10:28: E231 missing whitespace after ','
+./test_querywolfram.py:4:1: E302 expected 2 blank lines, found 1
+9     E111 indentation is not a multiple of 4
+5     E121 continuation line under-indented for hanging indent
+2     E126 continuation line over-indented for hanging indent
+7     E226 missing whitespace around arithmetic operator
+26    E231 missing whitespace after ','
+2     E252 missing whitespace around parameter equals
+8     E265 block comment should start with '# '
+13    E302 expected 2 blank lines, found 1
+3     E303 too many blank lines (3)
+2     E305 expected 2 blank lines after class or function definition, found 1
+1     E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./test_ttsgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_ttsgoogle.py:11:20: E231 missing whitespace after ','
+./test_ttsgoogle.py:11:30: E231 missing whitespace after ','
+./sttgoogle.py:22:3: E121 continuation line under-indented for hanging indent
+./sttgoogle.py:23:17: E231 missing whitespace after ':'
+./sttgoogle.py:29:16: E231 missing whitespace after ':'
+./sttgoogle.py:33:1: E302 expected 2 blank lines, found 1
+./sttgoogle.py:33:17: E231 missing whitespace after ':'
+./sttgoogle.py:33:32: E231 missing whitespace after ':'
+./sttgoogle.py:38:42: E226 missing whitespace around arithmetic operator
+./sttgoogle.py:38:47: E231 missing whitespace after ','
+./sttgoogle.py:38:62: E231 missing whitespace after ':'
+./test_record.py:3:1: E302 expected 2 blank lines, found 1
+./test_record.py:5:29: E231 missing whitespace after ','
+./test_record.py:6:19: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./querywolfram.py:8:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:24:1: E303 too many blank lines (3)
+./querywolfram.py:25:1: E302 expected 2 blank lines, found 3
+./querywolfram.py:38:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:38:26: E231 missing whitespace after ':'
+./querywolfram.py:45:5: E303 too many blank lines (2)
+./querywolfram.py:55:9: E265 block comment should start with '# '
+./querywolfram.py:58:1: E305 expected 2 blank lines after class or function definition, found 1
+./ttsgoogle.py:13:1: E303 too many blank lines (3)
+./ttsgoogle.py:14:3: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:14:10: E231 missing whitespace after ':'
+./ttsgoogle.py:15:5: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:15:11: E231 missing whitespace after ':'
+./ttsgoogle.py:17:10: E231 missing whitespace after ':'
+./ttsgoogle.py:18:5: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:18:19: E231 missing whitespace after ':'
+./ttsgoogle.py:19:11: E231 missing whitespace after ':'
+./ttsgoogle.py:21:16: E231 missing whitespace after ':'
+./ttsgoogle.py:22:5: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:22:20: E231 missing whitespace after ':'
+./ttsgoogle.py:26:1: E302 expected 2 blank lines, found 1
+./ttsgoogle.py:26:16: E231 missing whitespace after ':'
+./ttsgoogle.py:26:34: E231 missing whitespace after ':'
+./ttsgoogle.py:26:44: E231 missing whitespace after ':'
+./ttsgoogle.py:26:58: E231 missing whitespace after ':'
+./ttsgoogle.py:26:62: E252 missing whitespace around parameter equals
+./ttsgoogle.py:26:63: E252 missing whitespace around parameter equals
+./ttsgoogle.py:27:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:40: E226 missing whitespace around arithmetic operator
+./ttsgoogle.py:31:45: E231 missing whitespace after ','
+./ttsgoogle.py:31:60: E231 missing whitespace after ':'
+./ttsgoogle.py:32:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:33:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:34:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:37:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:39:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:41:7: E111 indentation is not a multiple of 4
+./ttsgoogle.py:43:3: E111 indentation is not a multiple of 4
+./gui_main.py:32:1: E302 expected 2 blank lines, found 1
+./gui_main.py:37:5: E265 block comment should start with '# '
+./gui_main.py:42:5: E265 block comment should start with '# '
+./gui_main.py:45:5: E265 block comment should start with '# '
+./gui_main.py:48:5: E265 block comment should start with '# '
+./gui_main.py:51:5: E265 block comment should start with '# '
+./gui_main.py:54:1: E302 expected 2 blank lines, found 1
+./gui_main.py:60:1: E302 expected 2 blank lines, found 1
+./gui_main.py:67:20: E226 missing whitespace around arithmetic operator
+./gui_main.py:67:25: E226 missing whitespace around arithmetic operator
+./gui_main.py:69:28: E226 missing whitespace around arithmetic operator
+./gui_main.py:69:33: E226 missing whitespace around arithmetic operator
+./gui_main.py:69:57: E226 missing whitespace around arithmetic operator
+./gui_main.py:71:21: E126 continuation line over-indented for hanging indent
+./gui_main.py:90:9: E265 block comment should start with '# '
+./gui_main.py:100:17: E126 continuation line over-indented for hanging indent
+./gui_main.py:109:25: E231 missing whitespace after ','
+./gui_main.py:110:44: E231 missing whitespace after ','
+./gui_main.py:205:13: E265 block comment should start with '# '
+./gui_main.py:208:1: E305 expected 2 blank lines after class or function definition, found 1
+./test_play.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:10:28: E231 missing whitespace after ','
+./test_querywolfram.py:4:1: E302 expected 2 blank lines, found 1
+9     E111 indentation is not a multiple of 4
+5     E121 continuation line under-indented for hanging indent
+2     E126 continuation line over-indented for hanging indent
+7     E226 missing whitespace around arithmetic operator
+26    E231 missing whitespace after ','
+2     E252 missing whitespace around parameter equals
+8     E265 block comment should start with '# '
+13    E302 expected 2 blank lines, found 1
+3     E303 too many blank lines (3)
+2     E305 expected 2 blank lines after class or function definition, found 1
+1     E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./test_ttsgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_ttsgoogle.py:11:20: E231 missing whitespace after ','
+./test_ttsgoogle.py:11:30: E231 missing whitespace after ','
+./sttgoogle.py:10:2: W291 trailing whitespace
+./sttgoogle.py:22:3: E121 continuation line under-indented for hanging indent
+./sttgoogle.py:23:17: E231 missing whitespace after ':'
+./sttgoogle.py:29:16: E231 missing whitespace after ':'
+./sttgoogle.py:33:1: E302 expected 2 blank lines, found 1
+./sttgoogle.py:33:17: E231 missing whitespace after ':'
+./sttgoogle.py:33:32: E231 missing whitespace after ':'
+./sttgoogle.py:38:42: E226 missing whitespace around arithmetic operator
+./sttgoogle.py:38:47: E231 missing whitespace after ','
+./sttgoogle.py:38:62: E231 missing whitespace after ':'
+./test_record.py:3:1: E302 expected 2 blank lines, found 1
+./test_record.py:5:29: E231 missing whitespace after ','
+./test_record.py:6:19: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./querywolfram.py:8:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:24:1: E303 too many blank lines (3)
+./querywolfram.py:25:1: E302 expected 2 blank lines, found 3
+./querywolfram.py:38:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:38:26: E231 missing whitespace after ':'
+./querywolfram.py:44:1: W293 blank line contains whitespace
+./querywolfram.py:45:5: E303 too many blank lines (2)
+./querywolfram.py:55:9: E265 block comment should start with '# '
+./querywolfram.py:58:1: E305 expected 2 blank lines after class or function definition, found 1
+./querywolfram.py:67:1: W293 blank line contains whitespace
+./ttsgoogle.py:4:2: W291 trailing whitespace
+./ttsgoogle.py:13:1: E303 too many blank lines (3)
+./ttsgoogle.py:14:3: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:14:10: E231 missing whitespace after ':'
+./ttsgoogle.py:15:5: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:15:11: E231 missing whitespace after ':'
+./ttsgoogle.py:17:10: E231 missing whitespace after ':'
+./ttsgoogle.py:18:5: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:18:19: E231 missing whitespace after ':'
+./ttsgoogle.py:19:11: E231 missing whitespace after ':'
+./ttsgoogle.py:21:16: E231 missing whitespace after ':'
+./ttsgoogle.py:22:5: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:22:20: E231 missing whitespace after ':'
+./ttsgoogle.py:26:1: E302 expected 2 blank lines, found 1
+./ttsgoogle.py:26:16: E231 missing whitespace after ':'
+./ttsgoogle.py:26:34: E231 missing whitespace after ':'
+./ttsgoogle.py:26:44: E231 missing whitespace after ':'
+./ttsgoogle.py:26:58: E231 missing whitespace after ':'
+./ttsgoogle.py:26:62: E252 missing whitespace around parameter equals
+./ttsgoogle.py:26:63: E252 missing whitespace around parameter equals
+./ttsgoogle.py:27:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:28:66: W291 trailing whitespace
+./ttsgoogle.py:31:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:40: E226 missing whitespace around arithmetic operator
+./ttsgoogle.py:31:45: E231 missing whitespace after ','
+./ttsgoogle.py:31:60: E231 missing whitespace after ':'
+./ttsgoogle.py:32:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:33:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:34:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:37:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:39:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:41:7: E111 indentation is not a multiple of 4
+./ttsgoogle.py:43:3: E111 indentation is not a multiple of 4
+./gui_main.py:32:1: E302 expected 2 blank lines, found 1
+./gui_main.py:37:5: E265 block comment should start with '# '
+./gui_main.py:42:5: E265 block comment should start with '# '
+./gui_main.py:45:5: E265 block comment should start with '# '
+./gui_main.py:48:5: E265 block comment should start with '# '
+./gui_main.py:51:5: E265 block comment should start with '# '
+./gui_main.py:54:1: E302 expected 2 blank lines, found 1
+./gui_main.py:59:1: W293 blank line contains whitespace
+./gui_main.py:60:1: E302 expected 2 blank lines, found 1
+./gui_main.py:67:20: E226 missing whitespace around arithmetic operator
+./gui_main.py:67:25: E226 missing whitespace around arithmetic operator
+./gui_main.py:69:28: E226 missing whitespace around arithmetic operator
+./gui_main.py:69:33: E226 missing whitespace around arithmetic operator
+./gui_main.py:69:57: E226 missing whitespace around arithmetic operator
+./gui_main.py:71:21: E126 continuation line over-indented for hanging indent
+./gui_main.py:90:9: E265 block comment should start with '# '
+./gui_main.py:91:1: W293 blank line contains whitespace
+./gui_main.py:98:1: W293 blank line contains whitespace
+./gui_main.py:100:17: E126 continuation line over-indented for hanging indent
+./gui_main.py:109:25: E231 missing whitespace after ','
+./gui_main.py:110:44: E231 missing whitespace after ','
+./gui_main.py:111:1: W293 blank line contains whitespace
+./gui_main.py:118:49: W291 trailing whitespace
+./gui_main.py:120:1: W293 blank line contains whitespace
+./gui_main.py:133:38: W291 trailing whitespace
+./gui_main.py:198:36: W291 trailing whitespace
+./gui_main.py:205:13: E265 block comment should start with '# '
+./gui_main.py:208:1: E305 expected 2 blank lines after class or function definition, found 1
+./test_play.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:10:28: E231 missing whitespace after ','
+./test_sttgoogle.py:11:36: W292 no newline at end of file
+./no_gui_main.py:28:16: W291 trailing whitespace
+./test_querywolfram.py:4:1: E302 expected 2 blank lines, found 1
+9     E111 indentation is not a multiple of 4
+5     E121 continuation line under-indented for hanging indent
+2     E126 continuation line over-indented for hanging indent
+7     E226 missing whitespace around arithmetic operator
+26    E231 missing whitespace after ','
+2     E252 missing whitespace around parameter equals
+8     E265 block comment should start with '# '
+13    E302 expected 2 blank lines, found 1
+3     E303 too many blank lines (3)
+2     E305 expected 2 blank lines after class or function definition, found 1
+1     E712 comparison to True should be 'if cond is True:' or 'if cond:'
+7     W291 trailing whitespace
+1     W292 no newline at end of file
+7     W293 blank line contains whitespace
+./test_ttsgoogle.py:1:1: F401 'pytest' imported but unused
+./test_ttsgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_ttsgoogle.py:11:20: E231 missing whitespace after ','
+./test_ttsgoogle.py:11:30: E231 missing whitespace after ','
+./sttgoogle.py:10:2: W291 trailing whitespace
+./sttgoogle.py:22:3: E121 continuation line under-indented for hanging indent
+./sttgoogle.py:23:17: E231 missing whitespace after ':'
+./sttgoogle.py:29:16: E231 missing whitespace after ':'
+./sttgoogle.py:33:1: E302 expected 2 blank lines, found 1
+./sttgoogle.py:33:17: E231 missing whitespace after ':'
+./sttgoogle.py:33:32: E231 missing whitespace after ':'
+./sttgoogle.py:38:42: E226 missing whitespace around arithmetic operator
+./sttgoogle.py:38:47: E231 missing whitespace after ','
+./sttgoogle.py:38:62: E231 missing whitespace after ':'
+./test_record.py:3:1: E302 expected 2 blank lines, found 1
+./test_record.py:5:29: E231 missing whitespace after ','
+./test_record.py:6:19: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+./querywolfram.py:8:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:24:1: E303 too many blank lines (3)
+./querywolfram.py:25:1: E302 expected 2 blank lines, found 3
+./querywolfram.py:38:1: E302 expected 2 blank lines, found 1
+./querywolfram.py:38:26: E231 missing whitespace after ':'
+./querywolfram.py:44:1: W293 blank line contains whitespace
+./querywolfram.py:45:5: E303 too many blank lines (2)
+./querywolfram.py:55:9: E265 block comment should start with '# '
+./querywolfram.py:58:1: E305 expected 2 blank lines after class or function definition, found 1
+./querywolfram.py:67:1: W293 blank line contains whitespace
+./ttsgoogle.py:4:2: W291 trailing whitespace
+./ttsgoogle.py:5:1: F401 'typing.BinaryIO' imported but unused
+./ttsgoogle.py:13:1: E303 too many blank lines (3)
+./ttsgoogle.py:14:3: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:14:10: E231 missing whitespace after ':'
+./ttsgoogle.py:15:5: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:15:11: E231 missing whitespace after ':'
+./ttsgoogle.py:17:10: E231 missing whitespace after ':'
+./ttsgoogle.py:18:5: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:18:19: E231 missing whitespace after ':'
+./ttsgoogle.py:19:11: E231 missing whitespace after ':'
+./ttsgoogle.py:21:16: E231 missing whitespace after ':'
+./ttsgoogle.py:22:5: E121 continuation line under-indented for hanging indent
+./ttsgoogle.py:22:20: E231 missing whitespace after ':'
+./ttsgoogle.py:26:1: E302 expected 2 blank lines, found 1
+./ttsgoogle.py:26:16: E231 missing whitespace after ':'
+./ttsgoogle.py:26:34: E231 missing whitespace after ':'
+./ttsgoogle.py:26:44: E231 missing whitespace after ':'
+./ttsgoogle.py:26:58: E231 missing whitespace after ':'
+./ttsgoogle.py:26:62: E252 missing whitespace around parameter equals
+./ttsgoogle.py:26:63: E252 missing whitespace around parameter equals
+./ttsgoogle.py:27:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:28:66: W291 trailing whitespace
+./ttsgoogle.py:31:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:31:40: E226 missing whitespace around arithmetic operator
+./ttsgoogle.py:31:45: E231 missing whitespace after ','
+./ttsgoogle.py:31:60: E231 missing whitespace after ':'
+./ttsgoogle.py:32:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:33:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:34:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:37:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:39:3: E111 indentation is not a multiple of 4
+./ttsgoogle.py:41:7: E111 indentation is not a multiple of 4
+./ttsgoogle.py:43:3: E111 indentation is not a multiple of 4
+./test_gui_main.py:1:1: F401 'pytest' imported but unused
+./test_gui_main.py:2:1: F401 'gui_main.ThreadedClient' imported but unused
+./gui_main.py:32:1: E302 expected 2 blank lines, found 1
+./gui_main.py:37:5: E265 block comment should start with '# '
+./gui_main.py:42:5: E265 block comment should start with '# '
+./gui_main.py:45:5: E265 block comment should start with '# '
+./gui_main.py:48:5: E265 block comment should start with '# '
+./gui_main.py:51:5: E265 block comment should start with '# '
+./gui_main.py:54:1: E302 expected 2 blank lines, found 1
+./gui_main.py:59:1: W293 blank line contains whitespace
+./gui_main.py:60:1: E302 expected 2 blank lines, found 1
+./gui_main.py:67:20: E226 missing whitespace around arithmetic operator
+./gui_main.py:67:25: E226 missing whitespace around arithmetic operator
+./gui_main.py:69:28: E226 missing whitespace around arithmetic operator
+./gui_main.py:69:33: E226 missing whitespace around arithmetic operator
+./gui_main.py:69:57: E226 missing whitespace around arithmetic operator
+./gui_main.py:71:21: E126 continuation line over-indented for hanging indent
+./gui_main.py:90:9: E265 block comment should start with '# '
+./gui_main.py:91:1: W293 blank line contains whitespace
+./gui_main.py:98:1: W293 blank line contains whitespace
+./gui_main.py:100:17: E126 continuation line over-indented for hanging indent
+./gui_main.py:109:25: E231 missing whitespace after ','
+./gui_main.py:110:44: E231 missing whitespace after ','
+./gui_main.py:111:1: W293 blank line contains whitespace
+./gui_main.py:118:49: W291 trailing whitespace
+./gui_main.py:120:1: W293 blank line contains whitespace
+./gui_main.py:133:38: W291 trailing whitespace
+./gui_main.py:198:36: W291 trailing whitespace
+./gui_main.py:205:13: E265 block comment should start with '# '
+./gui_main.py:208:1: E305 expected 2 blank lines after class or function definition, found 1
+./test_play.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:1:1: F401 'pytest' imported but unused
+./test_sttgoogle.py:4:1: E302 expected 2 blank lines, found 1
+./test_sttgoogle.py:10:28: E231 missing whitespace after ','
+./test_sttgoogle.py:11:36: W292 no newline at end of file
+./no_gui_main.py:28:16: W291 trailing whitespace
+./test_querywolfram.py:1:1: F401 'pytest' imported but unused
+./test_querywolfram.py:2:1: F401 'querywolfram.answer_query' imported but unused
+./test_querywolfram.py:4:1: E302 expected 2 blank lines, found 1
+9     E111 indentation is not a multiple of 4
+5     E121 continuation line under-indented for hanging indent
+2     E126 continuation line over-indented for hanging indent
+7     E226 missing whitespace around arithmetic operator
+26    E231 missing whitespace after ','
+2     E252 missing whitespace around parameter equals
+8     E265 block comment should start with '# '
+13    E302 expected 2 blank lines, found 1
+3     E303 too many blank lines (3)
+2     E305 expected 2 blank lines after class or function definition, found 1
+1     E712 comparison to True should be 'if cond is True:' or 'if cond:'
+7     F401 'pytest' imported but unused
+7     W291 trailing whitespace
+1     W292 no newline at end of file
+7     W293 blank line contains whitespace
+./test_ttsgoogle.py:1:1: F401 'pytest' imported but unused
+./ttsgoogle.py:5:1: F401 'typing.BinaryIO' imported but unused
+./test_gui_main.py:1:1: F401 'pytest' imported but unused
+./test_gui_main.py:2:1: F401 'gui_main.ThreadedClient' imported but unused
+./test_sttgoogle.py:1:1: F401 'pytest' imported but unused
+./test_querywolfram.py:1:1: F401 'pytest' imported but unused
+./test_querywolfram.py:2:1: F401 'querywolfram.answer_query' imported but unused
+7     F401 'pytest' imported but unused
+./test_no_gui_main.py:1:1: F401 'no_gui_main.main' imported but unused
+./test_gui_main.py:1:1: F401 'gui_main.ThreadedClient' imported but unused
+2     F401 'gui_main.ThreadedClient' imported but unused
+./test_no_gui_main.py:1:1: F401 'no_gui_main.main' imported but unused
+./test_gui_main.py:1:1: F401 'gui_main.ThreadedClient' imported but unused
+./no_gui_main.py:59:1: E305 expected 2 blank lines after class or function definition, found 1
+./no_gui_main.py:60:11: W292 no newline at end of file
+1     E305 expected 2 blank lines after class or function definition, found 1
+2     F401 'gui_main.ThreadedClient' imported but unused
+1     W292 no newline at end of file
+./test_no_gui_main.py:1:1: F401 'no_gui_main.main' imported but unused
+./test_gui_main.py:1:1: F401 'gui_main.ThreadedClient' imported but unused
+./no_gui_main.py:59:1: E305 expected 2 blank lines after class or function definition, found 1
+./no_gui_main.py:60:11: W292 no newline at end of file
+1     E305 expected 2 blank lines after class or function definition, found 1
+2     F401 'gui_main.ThreadedClient' imported but unused
+1     W292 no newline at end of file
+./test_gui_main.py:1:1: F401 'gui_main.ThreadedClient' imported but unused
+./no_gui_main.py:59:1: E305 expected 2 blank lines after class or function definition, found 1
+./no_gui_main.py:60:11: W292 no newline at end of file
+1     E305 expected 2 blank lines after class or function definition, found 1
+1     F401 'gui_main.ThreadedClient' imported but unused
+1     W292 no newline at end of file
+./no_gui_main.py:59:1: E305 expected 2 blank lines after class or function definition, found 1
+./no_gui_main.py:60:11: W292 no newline at end of file
+1     E305 expected 2 blank lines after class or function definition, found 1
+1     W292 no newline at end of file
+./test_sounds.py:1:1: F401 'pytest' imported but unused
+./test_sounds.py:2:1: F401 'sounds' imported but unused
+./no_gui_main.py:59:1: E305 expected 2 blank lines after class or function definition, found 1
+./no_gui_main.py:60:11: W292 no newline at end of file
+1     E305 expected 2 blank lines after class or function definition, found 1
+2     F401 'pytest' imported but unused
+1     W292 no newline at end of file
+./test_sounds.py:1:1: F401 'pytest' imported but unused
+./test_sounds.py:2:1: F401 'sounds' imported but unused
+./no_gui_main.py:59:1: E305 expected 2 blank lines after class or function definition, found 1
+./no_gui_main.py:60:11: W292 no newline at end of file
+./test_querywolfram.py:5:1: E305 expected 2 blank lines after class or function definition, found 0
+./test_querywolfram.py:5:1: E402 module level import not at top of file
+./test_querywolfram.py:5:1: F401 'pytest' imported but unused
+./test_querywolfram.py:6:1: E402 module level import not at top of file
+./test_querywolfram.py:6:1: F401 'querywolfram' imported but unused
+./test_querywolfram.py:9:1: F811 redefinition of unused 'test_answer_query' from line 3
+2     E305 expected 2 blank lines after class or function definition, found 1
+2     E402 module level import not at top of file
+4     F401 'pytest' imported but unused
+1     F811 redefinition of unused 'test_answer_query' from line 3
+1     W292 no newline at end of file
+./test_sounds.py:1:1: F401 'pytest' imported but unused
+./test_sounds.py:2:1: F401 'sounds' imported but unused
+./no_gui_main.py:59:1: E305 expected 2 blank lines after class or function definition, found 1
+./no_gui_main.py:60:11: W292 no newline at end of file
+./test_querywolfram.py:2:1: F401 'pytest' imported but unused
+1     E305 expected 2 blank lines after class or function definition, found 1
+3     F401 'pytest' imported but unused
+1     W292 no newline at end of file
+./test_sounds.py:1:1: F401 'pytest' imported but unused
+./test_sounds.py:2:1: F401 'sounds' imported but unused
+./no_gui_main.py:59:1: E305 expected 2 blank lines after class or function definition, found 1
+./no_gui_main.py:60:11: W292 no newline at end of file
+./test_querywolfram.py:2:1: F401 'pytest' imported but unused
+./test_querywolfram.py:4:1: F401 'requests' imported but unused
+./test_querywolfram.py:5:1: F401 'requests_mock' imported but unused
+./test_querywolfram.py:10:1: W293 blank line contains whitespace
+./test_querywolfram.py:43:128: E501 line too long (133 > 127 characters)
+./test_querywolfram.py:64:1: E302 expected 2 blank lines, found 1
+./test_querywolfram.py:64:23: F811 redefinition of unused 'requests_mock' from line 5
+1     E302 expected 2 blank lines, found 1
+1     E305 expected 2 blank lines after class or function definition, found 1
+1     E501 line too long (133 > 127 characters)
+5     F401 'pytest' imported but unused
+1     F811 redefinition of unused 'requests_mock' from line 5
+1     W292 no newline at end of file
+1     W293 blank line contains whitespace
+./test_sounds.py:1:1: F401 'pytest' imported but unused
+./test_sounds.py:2:1: F401 'sounds' imported but unused
+./no_gui_main.py:59:1: E305 expected 2 blank lines after class or function definition, found 1
+./no_gui_main.py:60:11: W292 no newline at end of file
+./test_querywolfram.py:2:1: F401 'pytest' imported but unused
+./test_querywolfram.py:4:1: F401 'requests' imported but unused
+./test_querywolfram.py:5:1: F401 'requests_mock' imported but unused
+./test_querywolfram.py:10:1: W293 blank line contains whitespace
+./test_querywolfram.py:43:128: E501 line too long (133 > 127 characters)
+./test_querywolfram.py:64:1: E302 expected 2 blank lines, found 1
+./test_querywolfram.py:64:23: F811 redefinition of unused 'requests_mock' from line 5
+1     E302 expected 2 blank lines, found 1
+1     E305 expected 2 blank lines after class or function definition, found 1
+1     E501 line too long (133 > 127 characters)
+5     F401 'pytest' imported but unused
+1     F811 redefinition of unused 'requests_mock' from line 5
+1     W292 no newline at end of file
+1     W293 blank line contains whitespace
+./test_sounds.py:1:1: F401 'pytest' imported but unused
+./test_sounds.py:2:1: F401 'sounds' imported but unused
+./no_gui_main.py:59:1: E305 expected 2 blank lines after class or function definition, found 1
+./no_gui_main.py:60:11: W292 no newline at end of file
+./test_querywolfram.py:2:1: F401 'pytest' imported but unused
+./test_querywolfram.py:4:1: F401 'requests' imported but unused
+./test_querywolfram.py:5:1: F401 'requests_mock' imported but unused
+./test_querywolfram.py:10:1: W293 blank line contains whitespace
+./test_querywolfram.py:43:128: E501 line too long (133 > 127 characters)
+./test_querywolfram.py:64:1: E302 expected 2 blank lines, found 1
+./test_querywolfram.py:64:23: F811 redefinition of unused 'requests_mock' from line 5
+1     E302 expected 2 blank lines, found 1
+1     E305 expected 2 blank lines after class or function definition, found 1
+1     E501 line too long (133 > 127 characters)
+5     F401 'pytest' imported but unused
+1     F811 redefinition of unused 'requests_mock' from line 5
+1     W292 no newline at end of file
+1     W293 blank line contains whitespace
+./test_sounds.py:1:1: F401 'pytest' imported but unused
+./test_sounds.py:2:1: F401 'sounds' imported but unused
+./no_gui_main.py:59:1: E305 expected 2 blank lines after class or function definition, found 1
+./no_gui_main.py:60:11: W292 no newline at end of file
+./test_querywolfram.py:2:1: F401 'pytest' imported but unused
+./test_querywolfram.py:4:1: F401 'requests' imported but unused
+./test_querywolfram.py:5:1: F401 'requests_mock' imported but unused
+./test_querywolfram.py:10:1: W293 blank line contains whitespace
+./test_querywolfram.py:43:128: E501 line too long (133 > 127 characters)
+./test_querywolfram.py:64:1: E302 expected 2 blank lines, found 1
+./test_querywolfram.py:64:23: F811 redefinition of unused 'requests_mock' from line 5
+1     E302 expected 2 blank lines, found 1
+1     E305 expected 2 blank lines after class or function definition, found 1
+1     E501 line too long (133 > 127 characters)
+5     F401 'pytest' imported but unused
+1     F811 redefinition of unused 'requests_mock' from line 5
+1     W292 no newline at end of file
+1     W293 blank line contains whitespace
+./test_sounds.py:1:1: F401 'pytest' imported but unused
+./test_sounds.py:2:1: F401 'sounds' imported but unused
+./no_gui_main.py:59:1: E305 expected 2 blank lines after class or function definition, found 1
+./no_gui_main.py:60:11: W292 no newline at end of file
+./test_querywolfram.py:2:1: F401 'pytest' imported but unused
+./test_querywolfram.py:4:1: F401 'requests' imported but unused
+./test_querywolfram.py:5:1: F401 'requests_mock' imported but unused
+./test_querywolfram.py:10:1: W293 blank line contains whitespace
+./test_querywolfram.py:43:128: E501 line too long (133 > 127 characters)
+./test_querywolfram.py:64:1: E302 expected 2 blank lines, found 1
+./test_querywolfram.py:64:23: F811 redefinition of unused 'requests_mock' from line 5
+1     E302 expected 2 blank lines, found 1
+1     E305 expected 2 blank lines after class or function definition, found 1
+1     E501 line too long (133 > 127 characters)
+5     F401 'pytest' imported but unused
+1     F811 redefinition of unused 'requests_mock' from line 5
+1     W292 no newline at end of file
+1     W293 blank line contains whitespace
+./test_sounds.py:1:1: F401 'pytest' imported but unused
+./test_sounds.py:2:1: F401 'sounds' imported but unused
+./make_test_response.py:9:1: F401 'record.record' imported but unused
+./make_test_response.py:11:1: F401 'sttgoogle.stt' imported but unused
+./make_test_response.py:15:1: F401 'querywolfram.answer_query' imported but unused
+./make_test_response.py:17:1: F401 'play.play' imported but unused
+./make_test_response.py:21:1: F401 'os' imported but unused
+./make_test_response.py:35:1: W293 blank line contains whitespace
+./make_test_response.py:36:1: E305 expected 2 blank lines after class or function definition, found 1
+./make_test_response.py:37:11: W292 no newline at end of file
+./make_test_files.py:9:1: F401 'record.record' imported but unused
+./make_test_files.py:11:1: F401 'sttgoogle.stt' imported but unused
+./make_test_files.py:15:1: F401 'querywolfram.answer_query' imported but unused
+./make_test_files.py:17:1: F401 'play.play' imported but unused
+./make_test_files.py:21:1: F401 'os' imported but unused
+./make_test_files.py:35:1: W293 blank line contains whitespace
+./make_test_files.py:36:1: E305 expected 2 blank lines after class or function definition, found 1
+./make_test_files.py:37:11: W292 no newline at end of file
+./test_sttgoogle.py:3:128: E501 line too long (138 > 127 characters)
+./test_sttgoogle.py:11:65: W291 trailing whitespace
+./no_gui_main.py:59:1: E305 expected 2 blank lines after class or function definition, found 1
+./no_gui_main.py:60:11: W292 no newline at end of file
+./test_querywolfram.py:6:1: W293 blank line contains whitespace
+./test_querywolfram.py:39:128: E501 line too long (133 > 127 characters)
+./test_querywolfram.py:60:1: E302 expected 2 blank lines, found 1
+1     E302 expected 2 blank lines, found 1
+3     E305 expected 2 blank lines after class or function definition, found 1
+2     E501 line too long (133 > 127 characters)
+12    F401 'record.record' imported but unused
+1     W291 trailing whitespace
+3     W292 no newline at end of file
+3     W293 blank line contains whitespace

@@ -1,0 +1,29 @@
+# This dockerfile utilizes components licensed by their respective owners/authors.
+# Prior to utilizing this file or resulting images please review the respective licenses at: https://docs.python.org/3/license.html
+
+#FROM python:3.9-windowsservercore-1809
+#FROM mcr.microsoft.com/windows/servercore:2009
+FROM mcr.microsoft.com/windows:1903
+
+LABEL Description="Python" Vendor="Python Software Foundation" Version="3"
+
+#  [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; \
+ADD https://www.python.org/ftp/python/3.9.6/python-3.9.6.exe c:\\python-3.9.6.exe
+
+#RUN powershell.exe -Command \
+ #   $ErrorActionPreference = 'Stop'; \
+  #  wget https://www.python.org/ftp/python/3.7.3/python-3.7.3.exe -OutFile c:\python-3.7.3.exe ; \
+  #  Start-Process c:\python-3.7.3.exe -ArgumentList '/quiet InstallAllUsers=1 PrependPath=1' -Wait ; \
+  #  Remove-Item c:\python-3.7.3.exe -Force
+
+RUN powershell.exe -Command \
+    $ErrorActionPreference = 'Stop'; \
+    Start-Process c:\\python-3.9.6.exe -ArgumentList '/quiet InstallAllUsers=1 PrependPath=1' -Wait ; \
+    Remove-Item c:\\python-3.9.6.exe -Force
+#RUN python -m pip install --upgrade pip
+#RUN python -m pip install --upgrade pytest pytest-cov flake8 flake8-junit-report
+
+#RUN echo print("Hello World!") > c:\\hello.py
+
+#CMD ["py", "c:/hello.py"]
+CMD python -m pip install --upgrade pytest pytest-cov flake8 flake8-junit-report
